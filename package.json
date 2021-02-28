@@ -1,0 +1,11 @@
+{
+  "name": "testMysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "huda0209",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
